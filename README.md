@@ -1,5 +1,9 @@
 # Projeto next-level-week original
 
+![home](./home.png)
+![home](./mobile1.png)
+![home](./mobile2.png)
+
 ## Servidor
 
 ```
